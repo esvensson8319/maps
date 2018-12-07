@@ -3,5 +3,7 @@
 <name>Google Hybrid</name>
 <minZoom>0</minZoom>
 <maxZoom>20</maxZoom>
-<url>http://mt0.google.com/vt/lyrs=s,m&hl=se&x={$x}&y={$y}&z={$z}</url>
+<url>http://{$serverpart}.google.com/vt/lyrs=s,m&hl=se&x={$x}&y={$y}&z={$z}&scale=2</url>
+<serverParts>mt0 mt1 mt2 mt3</serverParts>
+<retina>1</retina>
 </customMapSource>
