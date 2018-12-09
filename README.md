@@ -1,7 +1,7 @@
 ## MAPS Page
 
 <ul>
-<li><a type="application/x-galileo" download="g-google_hybrid.ms" href="g-google_hybrid.ms">Google Hybrid</a></li>
+<li><a download="g-google_hybrid.xml" href="g-google_hybrid.xml">Google Hybrid</a></li>
 
 </ul>
 
